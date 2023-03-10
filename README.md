@@ -1,5 +1,6 @@
 # Copy-Paste
 Do NOT Copy And Paste Code to Terminal
+![Uploading presentation.PNG…]()
 
 
 python3 -m http.server is a command that allows you to quickly set up a local web server using Python 3. It starts a simple HTTP server in the current directory and serves files from there.
