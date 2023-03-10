@@ -13,3 +13,14 @@ Open your web browser and navigate to http://localhost:8000.
 You should now see the files in the directory you started the server from.
 This command is useful for quickly sharing files with others on your local network or for testing web applications. However, it's important to note that this server is not secure and should not be used in a production environment.
 
+
+
+
+გაფრთხილება!
+copying code from unknown or untrusted sources can potentially introduce malicious code or vulnerabilities into your system.
+
+To reduce the risk of this happening, it is recommended to only copy code or commands from trusted sources, such as official documentation or reputable blogs and forums. Additionally, it is important to review the code or commands that you are copying and ensure that they are safe and appropriate for your use case.
+
+Another good practice is to test the code or commands in a sandbox or test environment before deploying them in production. This can help identify any potential issues or vulnerabilities before they impact your system.
+
+Finally, it is also a good idea to regularly update your system and software to ensure that any known vulnerabilities are patched and that your system remains secure.
